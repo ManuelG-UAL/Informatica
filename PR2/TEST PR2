@@ -1,0 +1,73 @@
+# Pregunta 0
+# ¿Estás matriculado en la asignatura?
+print('SI')
+
+#########################
+# Pregunta 1  ¿Qué es GitHub?
+# A) Una plataforma para alojar proyectos
+# B) Una base de datos
+# C) Un sistema de gestión de contenido
+print('A')
+
+#########################
+# Pregunta 2 ¿Cuántos bits hay en 32 KB? ¿Y en 64 MB? ¿Y en 4 GB? Incluir las respuestas separadas por un espacio
+# 32 KB = 32 * 1024 * 8 = 262144
+# 64 MB = 64 * 1024 * 1024 * 8 = 536870912
+# 4 GB  = 4 * 1024 * 1024 * 1024 * 8 = 34359738368
+print('262144 536870912 34359738368')
+
+#########################
+# Pregunta 3 (VERDADERO/FALSO) La información de la unidad de memoria 
+# es persistente se pierde cuando se apaga el ordenador.
+print('FALSO')
+
+#########################
+# Pregunta 4 ¿Cuántos bits se necesitarían como mínimo para 
+# codificar un conjunto de 200 caracteres?
+# Se necesitan al menos log2(200) ≈ 8 bits (2^8 = 256 > 200)
+print('8')
+
+#########################
+# Pregunta 5  (Completar) Un ----- es la abreviatura de "dígito binario", 
+# un dígito que puede asumir uno de dos valores y es el elemento de datos más pequeño de un ordenador.
+print('BIT')
+
+#########################
+# Pregunta 6 ¿Cuáles de las siguientes palabras están relacionadas con la memoria? 
+# A) Unidad aritmético lógica
+# B) Dirección
+# C) Procesadores
+# D) Ninguno de los anteriores
+# Respuesta: B
+print('B')
+
+#########################
+# Pregunta 7 Cuando hablamos de **código fuente** nos referimos a
+# A) El programa escrito en lenguaje de alto nivel
+# B) El programa escrito en lenguaje máquina
+# C) El programa que traduce hace el interprete o compilador
+print('A')
+
+#########################
+# Pregunta 8 El procesador central (CPU) está formado por:
+# A) Dispositivos de entrada y dispositivos de salida
+# B) Memoria central y memoria externa
+# C) Unidad de control y unidad aritmético lógica
+# D) Ninguna de las anteriores es correcta
+print('C')
+
+#########################
+# Pregunta 9 La representación en base N. ¿Cuántos símbolos tiene el alfabeto?
+# Respuesta: N
+print('N')
+
+#########################
+# Pregunta 10 ¿Cuál de las siguientes opciones representa el sistema numérico binario?
+# A) 0, 1, 2, 3, 4
+# B) 0, 1
+# C) 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+# D) 1, 2, 3, 4, 5
+print('B')
+#########################
+
+
